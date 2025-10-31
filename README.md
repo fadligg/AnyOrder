@@ -63,9 +63,7 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 | Keranjang (Kosong) | Keranjang (Tidak Kosong) | Alamat Pengiriman |
 | :---: | :---: | :---: |
-|  ![IMG-20251031-WA0049](https://github.com/user-attachments/assets/0826f14a-c21b-483b-a81a-35ff0a7e09e4)
-| ![IMG-20251031-WA0053](https://github.com/user-attachments/assets/882553c0-2a98-4ca4-8fd9-1ac485066ae7) | ![IMG-20251031-WA0050](https://github.com/user-attachments/assets/ee57c995-a633-434f-b6b8-fde81f669ae2)
- |
+|  ![IMG-20251031-WA0049](https://github.com/user-attachments/assets/0826f14a-c21b-483b-a81a-35ff0a7e09e4) | ![IMG-20251031-WA0053](https://github.com/user-attachments/assets/882553c0-2a98-4ca4-8fd9-1ac485066ae7) | ![IMG-20251031-WA0050](https://github.com/user-attachments/assets/ee57c995-a633-434f-b6b8-fde81f669ae2)|
 
 
 | Konfirmasi | Profile | 

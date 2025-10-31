@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Warna-warna Anda yang sudah ada -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- TAMBAHKAN DUA WARNA INI -->
+    <!-- Ganti nama & kodenya sesuai keinginan Anda -->
+    <color name="warna_nav_aktif">#EF1134</color>
+    <color name="warna_nav_tidak_aktif">#000000</color>
 </resources>

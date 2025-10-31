@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Menggunakan warna dari res/values/colors.xml -->
+    <item android:state_checked="true" android:color="@color/warna_nav_aktif" />
+
+    <!-- Menggunakan warna dari res/values/colors.xml -->
+    <item android:color="@color/warna_nav_tidak_aktif" />
+
+</selector>
+

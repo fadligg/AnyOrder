@@ -5,15 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
+    android:background="#FFFFFF"
     tools:context=".HomeFragment">
 
-    <!-- Sapaan (Tetap di atas) --><TextView
+    <!-- Sapaan (Tetap di atas) -->
+    <TextView
     android:id="@+id/text_greeting_home"
     android:layout_width="0dp"
     android:layout_height="wrap_content"
     android:layout_marginBottom="16dp"
     android:text="Halo, (memuat...)"
-    android:textColor="#000"
+    android:textColor="#EF1134"
     android:textSize="24sp"
     android:textStyle="bold"
     app:layout_constraintEnd_toEndOf="parent"
@@ -39,8 +41,8 @@
             android:id="@+id/text_title_makanan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Makanan"
-            android:textColor="#000000"
+            android:text="Mau makan apa hari ini?"
+            android:textColor="#EF1134"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -74,7 +76,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Cireng aci Bandung"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
 
@@ -82,6 +84,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="adalah makanan dari tepung dan rasanya pedas" />
             </LinearLayout>
         </LinearLayout>
@@ -117,7 +120,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Batagor Bandung"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
 
@@ -125,6 +128,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="adalah olahan ikan dan tepung dengan bumbu kacang" />
             </LinearLayout>
         </LinearLayout>
@@ -157,13 +161,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Seblak Pedas"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Kerupuk basah dengan bumbu kencur dan cabai." />
             </LinearLayout>
         </LinearLayout>
@@ -196,13 +201,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Karedok"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Salad sayur mentah dengan bumbu kacang." />
             </LinearLayout>
         </LinearLayout>
@@ -235,13 +241,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Nasi Timbel"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Nasi dibungkus daun pisang, disajikan dengan lauk." />
             </LinearLayout>
         </LinearLayout>
@@ -274,13 +281,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Sate Maranggi"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Sate daging sapi khas Purwakarta." />
             </LinearLayout>
         </LinearLayout>
@@ -313,13 +321,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Mie Kocok"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Mie kuning dengan kikil sapi dan tauge." />
             </LinearLayout>
         </LinearLayout>
@@ -352,13 +361,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Lotek"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Sayuran rebus dengan bumbu kacang." />
             </LinearLayout>
         </LinearLayout>
@@ -391,13 +401,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Surabi Manis"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Pancake tradisional dengan saus kinca." />
             </LinearLayout>
         </LinearLayout>
@@ -430,13 +441,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Telur Gulung"
-                    android:textColor="#000"
+                    android:textColor="#EF1134"
                     android:textSize="18sp"
                     android:textStyle="bold" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
+                    android:textColor="#000000"
                     android:text="Telur dadar yang digulung dengan tusuk sate." />
             </LinearLayout>
         </LinearLayout>

@@ -11,9 +11,10 @@
         android:id="@+id/text_title_pesanan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Pesanan saya:"
+        android:text="Pesanan Anda:"
+        android:layout_marginTop="10dp"
         android:textColor="#000"
-        android:textSize="18sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -43,7 +44,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Pesanan Anda Kosong"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <!-- TextView untuk Kuantitas (rata kanan) -->
             <TextView
@@ -53,7 +54,7 @@
                 android:gravity="end"
                 android:paddingStart="16dp"
                 android:text=""
-                android:textSize="16sp" />
+                android:textSize="18sp" />
         </LinearLayout>
 
     </ScrollView>
@@ -77,10 +78,11 @@
         android:id="@+id/button_kirim"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:backgroundTint="#333333"
+        android:backgroundTint="#EF1134"
+        android:layout_marginBottom="10dp"
         android:text="Kirim"
         android:textColor="#FFFFFF"
-        app:cornerRadius="8dp"
+        app:cornerRadius="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

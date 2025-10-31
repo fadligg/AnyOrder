@@ -53,10 +53,22 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 *(Tempatkan gambar-gambar Anda di sini untuk memberikan gambaran visual)*
 
-| Login | Tampilan Utama | Keranjang (Isi) |
+| Splash Screen | Landing | SignUp |
 | :---: | :---: | :---: |
-| [Gambar Login] | [Gambar Home] | [Gambar Keranjang] |
+| ![IMG-20251031-WA0043](https://github.com/user-attachments/assets/8a4aef9d-d91d-472a-808a-07e927d1a454) |  ![IMG-20251031-WA0044](https://github.com/user-attachments/assets/840d695d-5294-4469-93f7-0d6def57d393) | ![IMG-20251031-WA0045](https://github.com/user-attachments/assets/b1cfbedc-20e8-4cba-a478-1a1eb9934179) |
 
-| Keranjang (Kosong) | Checkout | Konfirmasi |
+| Login | Register | Home |
 | :---: | :---: | :---: |
-| [Gambar Keranjang Kosong] | [Gambar Checkout] | [Gambar Konfirmasi] |
+|![IMG-20251031-WA0046](https://github.com/user-attachments/assets/9035a67c-d349-4f7b-a859-281881fadffb) | ![IMG-20251031-WA0047](https://github.com/user-attachments/assets/15ff649e-cf1c-4e25-a8b5-fe9faf27d97f) | ![IMG-20251031-WA0048](https://github.com/user-attachments/assets/c57fc3cc-4190-4f15-b241-4f9d32e97dcb) |
+
+| Keranjang (Kosong) | Keranjang (Tidak Kosong) | Alamat Pengiriman |
+| :---: | :---: | :---: |
+|  ![IMG-20251031-WA0049](https://github.com/user-attachments/assets/0826f14a-c21b-483b-a81a-35ff0a7e09e4)
+| ![IMG-20251031-WA0053](https://github.com/user-attachments/assets/882553c0-2a98-4ca4-8fd9-1ac485066ae7) | ![IMG-20251031-WA0050](https://github.com/user-attachments/assets/ee57c995-a633-434f-b6b8-fde81f669ae2)
+ |
+
+
+| Konfirmasi | Profile | 
+| :---: | :---: | 
+| ![IMG-20251031-WA0051](https://github.com/user-attachments/assets/29d722aa-7c2b-4849-9a91-582682482e7c) |  ![IMG-20251031-WA0052](https://github.com/user-attachments/assets/d87f7e9d-4bbf-4c4e-95fc-7556acc8fd53)|
+
